@@ -6,8 +6,8 @@ import sys
 pygame.init()
 
 # Define o tamanho da janela do jogo.
-LARGURA = 800
-ALTURA = 600
+LARGURA = 1920
+ALTURA = 1200
 tela = pygame.display.set_mode((LARGURA, ALTURA))
 pygame.display.set_caption("Caça ao Cristal")
 
